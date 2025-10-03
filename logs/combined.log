@@ -1,0 +1,32 @@
+{"level":"info","message":"Database connected successfully","service":"inventory-api","timestamp":"2025-10-03T08:53:14.454Z"}
+{"level":"info","message":"Server running on port 3000","service":"inventory-api","timestamp":"2025-10-03T08:53:14.457Z"}
+{"level":"info","message":"Environment: development","service":"inventory-api","timestamp":"2025-10-03T08:53:14.458Z"}
+{"level":"info","message":"Shutting down gracefully...","service":"inventory-api","timestamp":"2025-10-03T12:15:56.766Z"}
+{"level":"info","message":"Database connected successfully","service":"inventory-api","timestamp":"2025-10-03T12:17:32.731Z"}
+{"level":"info","message":"Server running on port 3000","service":"inventory-api","timestamp":"2025-10-03T12:17:32.737Z"}
+{"level":"info","message":"Environment: development","service":"inventory-api","timestamp":"2025-10-03T12:17:32.738Z"}
+{"level":"info","message":"Received SIGTERM, shutting down gracefully...","service":"inventory-api","timestamp":"2025-10-03T12:17:41.554Z"}
+{"level":"info","message":"Received SIGTERM, shutting down gracefully...","service":"inventory-api","timestamp":"2025-10-03T12:17:41.555Z"}
+{"level":"info","message":"Database disconnected successfully","service":"inventory-api","timestamp":"2025-10-03T12:17:41.561Z"}
+{"level":"info","message":"Database connected successfully","service":"inventory-api","timestamp":"2025-10-03T12:26:36.545Z"}
+{"level":"info","message":"Server running on port 3000","service":"inventory-api","timestamp":"2025-10-03T12:26:36.550Z"}
+{"level":"info","message":"Environment: development","service":"inventory-api","timestamp":"2025-10-03T12:26:36.550Z"}
+{"level":"info","message":"Received SIGTERM, shutting down gracefully...","service":"inventory-api","timestamp":"2025-10-03T12:26:48.413Z"}
+{"level":"info","message":"Database disconnected successfully","service":"inventory-api","timestamp":"2025-10-03T12:26:48.420Z"}
+{"level":"info","message":"Database connected successfully","service":"inventory-api","timestamp":"2025-10-03T12:26:48.989Z"}
+{"level":"info","message":"Server running on port 3000","service":"inventory-api","timestamp":"2025-10-03T12:26:48.994Z"}
+{"level":"info","message":"Environment: development","service":"inventory-api","timestamp":"2025-10-03T12:26:48.994Z"}
+{"level":"info","message":"Received SIGTERM, shutting down gracefully...","service":"inventory-api","timestamp":"2025-10-03T12:28:19.701Z"}
+{"level":"info","message":"Database disconnected successfully","service":"inventory-api","timestamp":"2025-10-03T12:28:19.709Z"}
+{"level":"info","message":"Database connected successfully","service":"inventory-api","timestamp":"2025-10-03T12:28:20.132Z"}
+{"level":"info","message":"Database connected successfully","service":"inventory-api","timestamp":"2025-10-03T12:28:39.558Z"}
+{"level":"info","message":"Database connected successfully","service":"inventory-api","timestamp":"2025-10-03T12:29:01.376Z"}
+{"level":"info","message":"Database connected successfully","service":"inventory-api","timestamp":"2025-10-03T12:29:01.970Z"}
+{"level":"info","message":"Database connected successfully","service":"inventory-api","timestamp":"2025-10-03T12:29:29.921Z"}
+{"level":"info","message":"Server running on port 3000","service":"inventory-api","timestamp":"2025-10-03T12:29:29.924Z"}
+{"level":"info","message":"Environment: development","service":"inventory-api","timestamp":"2025-10-03T12:29:29.925Z"}
+{"level":"info","message":"Received SIGTERM, shutting down gracefully...","service":"inventory-api","timestamp":"2025-10-03T12:29:54.358Z"}
+{"level":"info","message":"Database disconnected successfully","service":"inventory-api","timestamp":"2025-10-03T12:29:54.366Z"}
+{"level":"info","message":"Database connected successfully","service":"inventory-api","timestamp":"2025-10-03T12:29:54.808Z"}
+{"level":"info","message":"Server running on port 3000","service":"inventory-api","timestamp":"2025-10-03T12:29:54.811Z"}
+{"level":"info","message":"Environment: development","service":"inventory-api","timestamp":"2025-10-03T12:29:54.812Z"}
